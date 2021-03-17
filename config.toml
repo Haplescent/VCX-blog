@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://haplescent.github.io/VCX-blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "VCX"
 theme = "ananke"
