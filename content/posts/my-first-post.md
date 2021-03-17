@@ -1,24 +1,22 @@
 ---
-title: "VCX Debut Post"
+title: "VCX"
 date: 2021-03-16T22:15:44-07:00
 draft: false
 ---
 
-VCX Bio / Summary:
+## VCX Summary:
 
 VCX is a team of data scientists, computer engineers and technology marketers studying the venture capital ecosystem. The team includes Brian Dema, Han de Jong, John Merritt and Olga Namsaraeva. Contact us for media inquiries or for custom research to answer questions around the venture landscape, VC marketing, and social media use across the tech community.
 
-Section:
+# ***Clubhouse Events:***
 
-Clubhouse Events
-
-**VC Marketing Jam #2 – &quot;Content, Content, NFTs, Oh My!&quot; (3/17/21)**
+## **VC Marketing Jam #2 – &quot;Content, Content, NFTs, Oh My!&quot; (3/17/21)**
 
 Venture capitalists need to be seen as thought leaders, and content is the way to make that happen. Some VCs are even starting their own publishing platforms. But creating compelling original content isn&#39;t easy. Harder still is creating content that will spread far and wide. Or is it? Influencers are using their powerful communities to promote content and to drive up the value of everything from startups to SPACs to...you guessed it... NFTs! The meteoric rise of NFTs in recent months gives tantalizing clues as to how ideas spread through the Valley and beyond. Deeper still, NFT&#39;s present a new way to value content and create revenue for content creators.
 
 Join us on 3/17 at 6:30 PM Pacific for a deep dive into content and NFTs. Co-hosts [Brian Dema](https://www.linkedin.com/in/briandema/) and [Kristen Ostro](https://www.linkedin.com/in/kristenostro/) are joined by speakers including [Ben Worthen](https://www.linkedin.com/in/ACoAAAAZ9fkBAfMgECHG4BbeTu8duOvDIxSXXeU?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BIvEreboxSsSOgb46ZcEqvA%3D%3D), [Alexa Makreas](https://www.linkedin.com/in/ACoAAAW4vq8BVjm7n_JWzDr_8ws5jHXAbUBUC3g), [Han de Jong](https://www.linkedin.com/in/ACoAAASIIVEBi1dRs-3-Lc46N7WT0jp87kVa_Tk), [Mandy Campbell](https://www.linkedin.com/in/ACoAAACn6fUB_28tdAXDb3PA04_AxRo-Dt1WN14), and [John Merritt](https://www.linkedin.com/in/ACoAAAoIknQBn7CVE47vdkbUvb0BfexOXzkKRCI) .
 
-&quot; **YAKATA&quot; NFT Drop!**
+&quot;**YAKATA&quot; NFT Drop!**
 
 We will also be debuting &quot;YAKATA&quot;, an audio collectible now available on both the [Rarible](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:448059:0x0f6fc4e00de0b7bdf3241045546dda635b3d7863) and [OpenSea](https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/448059) marketplaces. This was our first foray into making an NFT. Check it out to hear the story behind the song and to bid!
 
@@ -44,7 +42,7 @@ Map of Twitter relationships among our sample DeepTech 45 network containing the
 
 **---**
 
-**VC Marketing Jam #1 (3/2/21)**
+## **VC Marketing Jam #1 (3/2/21)**
 
 Our inaugural conversion on marketing for venture capital, led by Kristen Ostro and Brian Dema, and a group of VC marketers, platform experts and data scientists.
 
